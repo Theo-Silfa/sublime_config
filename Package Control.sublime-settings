@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CMake",
+		"EasyClangComplete",
+		"GitGutter",
+		"Package Control",
+		"Pretty JSON",
+		"SFTP",
+		"Switch File Deluxe"
+	],
+}
